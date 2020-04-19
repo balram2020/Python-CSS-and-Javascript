@@ -1,4 +1,5 @@
 git clone <url> - copy the repository in local system
-git add <filename> - save the new version of file 
+git add <filename> - update what will be committed 
 git commit -m "message" - describe the changes made to the code
-git 
+git status - whats going on in the current repository
+git push - update changes in the remote repository
