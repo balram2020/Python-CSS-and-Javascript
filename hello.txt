@@ -1,4 +1,0 @@
-git clone <url> - copy the repository in local system
-git add <filename> - save the new version of file 
-git commit -m "message" - describe the changes made to the code
-git 
